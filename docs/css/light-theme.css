@@ -1,0 +1,7 @@
+/* ── 345 Technology Discovery – light-theme.css ────────────────── */
+/* Glassmorphism is a single dark mode design — no light overrides needed */
+/* This file intentionally left minimal */
+
+.theme-toggle {
+    display: none;
+}
