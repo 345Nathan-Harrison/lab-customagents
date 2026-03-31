@@ -45,12 +45,12 @@ A `custom-agent.instructions.md` instructions file enforces good practices for t
 
 ## Workshop Structure
 
-| Lab | Title                            | Description                                                                                                  | Duration |
-| --- | -------------------------------- | ------------------------------------------------------------------------------------------------------------ | -------- |
-| 1   | Build a Poet Agent               | Create your first custom agent - a single-agent poetry generator.                                            | 30 min   |
-| 2   | Build a Multi-Agent Joke Factory | Build an Orchestrator + Subagent pipeline that writes jokes and renders them as styled HTML pages.           | 30 min   |
-| 3   | Build a Quiz Agent               | Build an custom agent that uses skills - an agent to build a quiz that is displayed using PowerPoint or HTML | 30 min   |
-| 4   | Build a Shopper Agent            | Build a price comparison agent that uses MCP servers - integrates Playwright MCP for web scraping            | 30 min   |
+| Lab | Title                                  | Description                                                                                                        | Duration |
+| --- | -------------------------------------- | ------------------------------------------------------------------------------------------------------------------ | -------- |
+| 1   | Build a Bio Agent                      | Create your first custom agent — a single-agent professional biography writer.                                     | 30 min   |
+| 2   | Build a Multi-Agent Incident Reporter  | Build an Orchestrator + Subagent pipeline that analyses raw incident notes and produces a styled HTML report.      | 30 min   |
+| 3   | Build a Proposal Agent                 | Build a custom agent that uses skills — generates business proposals as PowerPoint or HTML.                        | 30 min   |
+| 4   | Build a Tech News Agent                | Build a news aggregation agent that uses MCP servers — integrates Playwright MCP for web scraping.                 | 30 min   |
 
 ## Slides
 
@@ -75,4 +75,4 @@ GitHub Copilot provides the following customization primitives. Each serves a di
 
 Ready? Let's go!
 
-👉 **Continue to [Poet Agent](01-poet.md)**
+👉 **Continue to [Bio Agent](01-bio.md)**
