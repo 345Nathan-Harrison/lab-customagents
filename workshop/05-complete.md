@@ -14,10 +14,10 @@ Create you own Custom Agents.
 
 ## Resources
 
-| Resource             | Link                                                                 |
-| -------------------- | -------------------------------------------------------------------- |
-| Mark Harrison GitHub | [View on GitHub](https://github.com/markharrison)                    |
-| Documentation        | [Official Docs](https://code.visualstudio.com/docs/copilot/overview) |
+| Resource               | Link                                                                 |
+| ---------------------- | -------------------------------------------------------------------- |
+| Nathan Harrison GitHub | [View on GitHub](https://github.com/345nathan-harrison)                    |
+| Documentation          | [Official Docs](https://code.visualstudio.com/docs/copilot/overview) |
 
 ## Feedback
 
