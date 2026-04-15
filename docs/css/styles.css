@@ -89,7 +89,7 @@ body::after {
     font-size: clamp(2.5rem, 6vw, 4rem);
     font-weight: 700;
     margin-bottom: 1rem;
-    background: linear-gradient(135deg, #8fd9f5, #FD8B2E);
+    background: #8fd9f5;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -125,15 +125,15 @@ body::after {
 }
 
 .btn-primary {
-    background: linear-gradient(135deg, #FD8B2E, #fda556);
-    color: #fff;
-    border-color: rgba(253,139,46,0.3);
-    box-shadow: 0 4px 15px rgba(253,139,46,0.25);
+    background: #8fd9f5;
+    color: #021b33;
+    border-color: rgba(143,217,245,0.3);
+    box-shadow: 0 4px 15px rgba(143,217,245,0.25);
 }
 
 .btn-primary:hover {
-    background: linear-gradient(135deg, #fda556, #FD8B2E);
-    box-shadow: 0 4px 20px rgba(253,139,46,0.4);
+    background: #a8e3f8;
+    box-shadow: 0 4px 20px rgba(143,217,245,0.4);
     transform: translateY(-1px);
 }
 
@@ -283,7 +283,7 @@ body::after {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: linear-gradient(135deg, #8fd9f5, #FD8B2E);
+    background: #8fd9f5;
     border-radius: var(--radius);
     font-weight: 700;
     font-size: 1.25rem;

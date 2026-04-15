@@ -106,7 +106,7 @@ body::after {
 .header-title {
     font-size: 1.25rem;
     font-weight: 600;
-    background: linear-gradient(135deg, #8fd9f5, #FD8B2E);
+    background: #8fd9f5;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -222,7 +222,7 @@ body::after {
 }
 
 .step-link.active .step-number {
-    background: linear-gradient(135deg, #8fd9f5, #FD8B2E);
+    background: #8fd9f5;
     border-color: transparent;
     color: #021b33;
 }
@@ -270,7 +270,7 @@ body::after {
     font-size: 2.25rem;
     font-weight: 700;
     margin-bottom: 1.5rem;
-    background: linear-gradient(135deg, #8fd9f5, #FD8B2E);
+    background: #8fd9f5;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
